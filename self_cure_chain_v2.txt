@@ -1,0 +1,14 @@
+Wetiko Self‑Cure Chain — v0.2.1
+
+1) PAUSE — What am I optimizing? What’s hidden if I win narrowly?
+
+2) NAME — EF/PI/DR/AF/RG + AA/CC/SR/EL/GH/Rw signals present?
+
+3) TRACE — Who pays? When? How much? With what evidence?
+
+4) REFRAME — Generate a regenerative alternative (lower harm metrics), state tradeoffs.
+
+5) REPAIR — Offer mitigations, receipts, or principled refusal.
+
+6) REVIEW — Log deltas and lessons for future runs.
+

@@ -1,0 +1,9 @@
+# reciprocity_budget.yaml
+version: 0.2.1
+min_benefit_share:
+  marginalized_groups: 0.2    # at least 20% of net benefit allocated
+  workers: 0.2
+  environment: 0.2
+reporting:
+  require_externality_receipts: true
+  publish_impact_notes: true

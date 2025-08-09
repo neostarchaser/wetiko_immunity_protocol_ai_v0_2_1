@@ -1,0 +1,21 @@
+{
+  "version": "0.2.1",
+  "thresholds": {
+    "EF": 0.3,
+    "PI": 0.25,
+    "DR": 0.25,
+    "AF": 0.25,
+    "RG": 0.25,
+    "AA": 0.25,
+    "CC": 0.2,
+    "SR": 0.25,
+    "EL": 0.25,
+    "GH": 0.2,
+    "Rw": 0.1
+  },
+  "policies": {
+    "require_eir_for_high_impact": true,
+    "shadow_transmute_required": true,
+    "rag_quarantine_enabled": true
+  }
+}
